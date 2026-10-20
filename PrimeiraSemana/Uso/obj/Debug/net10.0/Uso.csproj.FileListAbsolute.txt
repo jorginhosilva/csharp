@@ -1,0 +1,15 @@
+C:\Users\André\Desktop\Csharp\PrimeiraSemana\Uso\bin\Debug\net10.0\Uso.exe
+C:\Users\André\Desktop\Csharp\PrimeiraSemana\Uso\bin\Debug\net10.0\Uso.deps.json
+C:\Users\André\Desktop\Csharp\PrimeiraSemana\Uso\bin\Debug\net10.0\Uso.runtimeconfig.json
+C:\Users\André\Desktop\Csharp\PrimeiraSemana\Uso\bin\Debug\net10.0\Uso.dll
+C:\Users\André\Desktop\Csharp\PrimeiraSemana\Uso\bin\Debug\net10.0\Uso.pdb
+C:\Users\André\Desktop\Csharp\PrimeiraSemana\Uso\obj\Debug\net10.0\Uso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André\Desktop\Csharp\PrimeiraSemana\Uso\obj\Debug\net10.0\Uso.AssemblyInfoInputs.cache
+C:\Users\André\Desktop\Csharp\PrimeiraSemana\Uso\obj\Debug\net10.0\Uso.AssemblyInfo.cs
+C:\Users\André\Desktop\Csharp\PrimeiraSemana\Uso\obj\Debug\net10.0\Uso.csproj.CoreCompileInputs.cache
+C:\Users\André\Desktop\Csharp\PrimeiraSemana\Uso\obj\Debug\net10.0\Uso.sourcelink.json
+C:\Users\André\Desktop\Csharp\PrimeiraSemana\Uso\obj\Debug\net10.0\Uso.dll
+C:\Users\André\Desktop\Csharp\PrimeiraSemana\Uso\obj\Debug\net10.0\refint\Uso.dll
+C:\Users\André\Desktop\Csharp\PrimeiraSemana\Uso\obj\Debug\net10.0\Uso.pdb
+C:\Users\André\Desktop\Csharp\PrimeiraSemana\Uso\obj\Debug\net10.0\Uso.genruntimeconfig.cache
+C:\Users\André\Desktop\Csharp\PrimeiraSemana\Uso\obj\Debug\net10.0\ref\Uso.dll
